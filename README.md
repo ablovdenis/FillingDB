@@ -44,6 +44,7 @@ python -m venv venv
 python3 -m venv venv
 ```
 для Linux.
+
 8. Войдите в окружение командой
 ```bash
 source venv/Scripts/activate
@@ -53,6 +54,7 @@ source venv/Scripts/activate
 source venv/bin/activate
 ```
 для Linux.
+
 9. Выполните установку нужных библиотек командой
 ```
 pip install -r requirements.txt
