@@ -64,3 +64,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+для Windows или
+```bash
+python3 main.py
+```
+для Linux.
