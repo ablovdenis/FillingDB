@@ -34,6 +34,7 @@ page_id,title,url,lang,chars,text
 ls
 ```
 выдаст список файлов репозитория, включая main.py).
+
 7. Создайте виртуальное окружение командой
 ```bash
 python -m venv venv
